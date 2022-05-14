@@ -9,10 +9,10 @@
 
 .is-black .site-bg__overlay {
   position: absolute;
-  background-color: rgba(1, 1, 1, 1);
+  background-color: rgba(60, 60, 60, .0);
 }
 
 .is-dark .site-bg__overlay {
   position: absolute;
-  background-color: rgba(30, 31, 37, 0.45);
+  background-color: rgba(30, 31, 37, 1.45);
 }
